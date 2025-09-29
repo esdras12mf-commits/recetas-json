@@ -1,3 +1,44 @@
-{
-
-}
+[
+    {
+        "Nombre": "Tacos al Pastor",
+        "Categoria": "Mexicana",
+        "Ingredientes": "Carne al pastor, piña, cebolla, cilantro",
+        "Preparacion": "Cocina la carne, calienta las tortillas y sirve con piña y cebolla.",
+        "Imagen": "https://th.bing.com/th/id/R.cbe7570855a830cfc398d239b5fca21e?rik=OnYU3lOsoE6jTw&riu=http%3a%2f%2fmilrecetas.net%2fwp-content%2fuploads%2f2016%2f09%2fTacos-al-pastor-3.jpg&ehk=3ylAYP%2fgLg2n6pPBPanu7ldoF9p%2fJcQXH7osJScmAm0%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "Nombre": "Pizza Margarita",
+        "Categoria": "Italiana",
+        "Ingredientes": "Masa, tomate, mozzarella, albahaca",
+        "Preparacion": "Hornea la masa con salsa y queso, decora con albahaca fresca.",
+        "Imagen": "https://tse4.mm.bing.net/th/id/OIP.86Y1g1N1ds1WeREt8NLxEAHaFp?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+        "Nombre": "Flan de Vainilla",
+        "Categoria": "Postres",
+        "Ingredientes": "Huevos, leche, azúcar, vainilla",
+        "Preparacion": "Mezcla los ingredientes, hornea a baño maría y enfría.",
+        "Imagen": "https://1.bp.blogspot.com/-8deMf-DRdSU/Xslf1rwNp0I/AAAAAAAAAA8/lYVqwwGkqkgcGtBIUAmgFFh0fuBIBn_ewCLcBGAsYHQ/s1600/flan-vainilla-1024x768.jpg"
+    },
+    {
+        "Nombre": "Chiles Rellenos",
+        "Categoria": "Mexicana",
+        "Ingredientes": "Chiles poblanos, queso, huevo, harina",
+        "Preparacion": "Rellena los chiles, empaniza y fríe.",
+        "Imagen": "https://th.bing.com/th/id/R.02034f8479e361e7ec7f81955264da3c?rik=GfVAoDogR2%2bWVg&pid=ImgRaw&r=0"
+    },
+    {
+        "Nombre": "Spaghetti Carbonara",
+        "Categoria": "Italiana",
+        "Ingredientes": "Spaghetti, huevo, panceta, queso parmesano",
+        "Preparacion": "Cocina la pasta, mezcla con huevo batido y panceta caliente.",
+        "Imagen": "https://tse2.mm.bing.net/th/id/OIP.-L2zuKj5SBswlGEfZetZqgHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+        "Nombre": "Pastel de Chocolate",
+        "Categoria": "Postres",
+        "Ingredientes": "Harina, cacao, huevos, azúcar, mantequilla",
+        "Preparacion": "Mezcla los ingredientes, hornea y decora con chocolate fundido.",
+        "Imagen": "https://th.bing.com/th/id/R.91c3df2f02bffb539c669506bd667b72?rik=IGq3CpNeROzCcw&pid=ImgRaw&r=0"
+    }
+]
